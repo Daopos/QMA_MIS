@@ -79,7 +79,7 @@ export default function AdminLogin() {
             <div className="access-container">
                 <div>
                     <img src="/img/logo.png" alt="" width={200} />
-                    <h2>Admin</h2>
+                    <h2>Admin Login</h2>
                 </div>
                 <div>
                     <form onSubmit={onSubmit}>
